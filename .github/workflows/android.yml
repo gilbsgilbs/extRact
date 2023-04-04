@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - 'master'
+      - 'rework-rclone-build-action'
   pull_request:
     branches-ignore:
       - 'master'
